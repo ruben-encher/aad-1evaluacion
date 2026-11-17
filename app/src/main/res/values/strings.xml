@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">aad-1evaluacion</string>
+    <string name="app_cache">app_cache</string>
+    <string name="local_source_vehicle">local_source_vehicle</string>
 </resources>
